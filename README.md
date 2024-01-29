@@ -13,7 +13,7 @@ O Hello Kitty Run desafia você a controlar a Hello Kitty, pulando obstáculos p
 
 ## Instalação
 
-Não é necessário instalar nada para jogar. Basta acessar [aqui](#) e começar a se divertir com o Hello Kitty Run!
+Não é necessário instalar nada para jogar. Basta acessar [aqui](https://malafaiaa.github.io/Game-Hello-Kitty/) e começar a se divertir com o Hello Kitty Run!
 
 ## Recursos Utilizados
 
